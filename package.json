@@ -2,17 +2,16 @@
   "name": "com.yuningdrei.yu",
   "version": "0.0.1",
   "displayName": "Yu",
-  "description": "Yun1ng ",
+  "description": "Yun1ng",
   "unity": "2019.4",
   "unityRelease": "0b5",
-  "dependencies": {
- },
- "keywords": [
+  "keywords": [
     "Toolbox"
   ],
   "author": {
     "name": "Yun1ng",
     "email": "3339630@gmail.com",
     "url": "https://yuningdrei.com"
-  }
+  },
+  "type": "tool"
 }
